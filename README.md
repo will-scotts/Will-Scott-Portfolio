@@ -26,4 +26,4 @@ MySQL
 
 # How to Run
 
-The easiet way to run all of the projects is to download them.
+The easiet way to run all of the projects is to download them by clicking on a file and downloading the raw file.
