@@ -23,3 +23,7 @@ NumPy
 PHP
 HTML/CSS
 MySQL
+
+# How to Run
+
+The easiet way to run all of the projects is to download them.
